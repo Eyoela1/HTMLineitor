@@ -10,9 +10,10 @@ Descarga los ficheros y ponlos en C:\\Scripts, y ejecuta el fichero .reg para a�
 
 # Contribución
 
-Seamos sinseros, podía haber patentado esto y estar nadando en una piscina de oro, pero voy a ser buena persona y poner este proyecto open source. Si tienes otro fichero que no acepte google ai studio, añade un else if con la extensión y haz un pull request.
+Seamos sinceros, podía haber patentado esto y estar nadando en una piscina de oro, pero voy a ser buena persona y poner este proyecto open source. Si tienes otro fichero que no acepte google ai studio, añade un else if con la extensión y haz un pull request.
 
 Por un mundo mejor.
 
 
 Made with ♥️ (and google ai studio)
+
